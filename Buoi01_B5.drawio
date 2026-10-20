@@ -1,9 +1,103 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="_4-Cjuo7JkBWLqFM8Cu3">
-    <mxGraphModel>
+    <mxGraphModel dx="1613" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J63y81YGoFpGylPeXIlF-42" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Bắt đầu&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-44" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-45" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Nhập năm y" vertex="1">
+          <mxGeometry height="50" width="166" x="220" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Kết thúc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="220" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Đúng" vertex="1">
+          <mxGeometry height="30" width="60" x="264" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-48" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-52" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="460" />
+              <mxPoint x="310" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-78" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="y chia hết cho 400?" vertex="1">
+          <mxGeometry height="60" width="166" x="244" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-69" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="y chia hết cho 100?" vertex="1">
+          <mxGeometry height="60" width="146" x="244" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-72" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-73" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="y chia hết cho 4?" vertex="1">
+          <mxGeometry height="60" width="100" x="210" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-65" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-58" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Xuất &quot;Năm nhuận&quot;" vertex="1">
+          <mxGeometry height="35" width="120" x="123" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-59" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Đúng" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sai" vertex="1">
+          <mxGeometry width="60" x="294" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-84" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-66" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Xuất &quot;Không nhuận&quot;" vertex="1">
+          <mxGeometry height="35" width="120" x="300" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-67" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-74" edge="1" parent="1" source="J63y81YGoFpGylPeXIlF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.443;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="J63y81YGoFpGylPeXIlF-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Đúng" vertex="1">
+          <mxGeometry height="30" width="60" x="184" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Đúng" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sai" vertex="1">
+          <mxGeometry height="35" width="60" x="204" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="J63y81YGoFpGylPeXIlF-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sai" vertex="1">
+          <mxGeometry height="35" width="60" x="324" y="467" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
