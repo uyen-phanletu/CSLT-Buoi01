@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="ZXFMRozz6D0T5-KnbZJu">
+    <mxGraphModel dx="1032" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-41" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Bắt đầu&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="340" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-11" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Nhập a, b" vertex="1">
+          <mxGeometry height="50" width="166" x="330" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-12" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-27" connectable="0" parent="R-A9xf7Y4mORFBIyYeth-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="Sai" vertex="1">
+          <mxGeometry relative="1" x="-0.1984" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-29" connectable="0" parent="R-A9xf7Y4mORFBIyYeth-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="Sai" vertex="1">
+          <mxGeometry relative="1" x="-0.1984" as="geometry">
+            <mxPoint x="16" y="116" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-21" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-25" connectable="0" parent="R-A9xf7Y4mORFBIyYeth-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="Đúng" vertex="1">
+          <mxGeometry relative="1" x="-0.6227" y="3" as="geometry">
+            <mxPoint x="12" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="a ≠ 0 ?" vertex="1">
+          <mxGeometry height="80" width="146" x="341" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-19" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="x &amp;lt;- -b / a" vertex="1">
+          <mxGeometry height="50" width="140" x="530" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-20" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="b = 0 ?" vertex="1">
+          <mxGeometry height="80" width="146" x="341" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-39" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Xuất x" vertex="1">
+          <mxGeometry height="50" width="166" x="517" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-14" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Xuất “Vô nghiệm”" vertex="1">
+          <mxGeometry height="50" width="166" x="341" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-40" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Xuất “Vô số nghiệm”" vertex="1">
+          <mxGeometry height="50" width="166" x="140" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Kết thúc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="351" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-13" edge="1" parent="1" source="R-A9xf7Y4mORFBIyYeth-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="R-A9xf7Y4mORFBIyYeth-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-A9xf7Y4mORFBIyYeth-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Đúng" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
